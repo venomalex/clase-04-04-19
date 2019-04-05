@@ -1,0 +1,9 @@
+c:\users\lab3\documents\visual studio 2013\Projects\4abril2019\4abril2019\bin\Debug\4abril2019.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\4abril2019\4abril2019\bin\Debug\4abril2019.exe
+c:\users\lab3\documents\visual studio 2013\Projects\4abril2019\4abril2019\bin\Debug\4abril2019.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\4abril2019\4abril2019\obj\Debug\4abril2019.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\4abril2019\4abril2019\obj\Debug\_4abril2019.Form1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\4abril2019\4abril2019\obj\Debug\_4abril2019.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\4abril2019\4abril2019\obj\Debug\4abril2019.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\4abril2019\4abril2019\obj\Debug\4abril2019.exe
+c:\users\lab3\documents\visual studio 2013\Projects\4abril2019\4abril2019\obj\Debug\4abril2019.pdb
